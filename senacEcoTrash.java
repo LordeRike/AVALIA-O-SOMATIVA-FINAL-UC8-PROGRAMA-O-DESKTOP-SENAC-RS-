@@ -249,6 +249,7 @@ public class senacEcoTrash extends JFrame {
         }
 
     }
+    // é só um teste pra ver se foi no git
 
     private void gravarNovaLinha(String coop, String material,double peso, double valorTotal) {
         File arq = new File(BANCO_DADOS);
